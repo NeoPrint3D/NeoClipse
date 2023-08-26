@@ -3,8 +3,9 @@
 *.mp4
 *.srt
 *.wav
-
+*.png
 
 *.json
 !tsconfig.json
 !package.json
+.vscode
