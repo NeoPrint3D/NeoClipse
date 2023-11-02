@@ -16,3 +16,4 @@ Currently, this is a repo that uses lots of local tools so there is no elegant s
 - Replace Poe API with ollama and mistral:instruct
 - Find a way to use Stable Diffusion API with the infinite zoom extension
 - Possibly dockerize the entire application and have a single docker-compose for easy local setup
+- Clean up the large thick python script
